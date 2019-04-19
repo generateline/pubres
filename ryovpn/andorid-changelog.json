@@ -1,0 +1,9 @@
+{
+  "latestVersion": "0.0.2",
+  "latestVersionCode": 2,
+  "url": "https://github.com/generateline/pubres/raw/master/ivy/app-release.apk",
+  "releaseNotes": [
+    "- First release",
+    "- Bug fixes"
+  ]
+}
