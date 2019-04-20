@@ -1,9 +1,8 @@
 {
-  "latestVersion": "1.1.2",
-  "latestVersionCode": 6,
-  "url": "https://github.com/generateline/pubres/raw/master/ryovpn/app-release.apk",
+  "latestVersion": "1.1.3",
+  "latestVersionCode": 7,
+  "url": "https://ryonosuke.net/downloads/android/ryovpn-release.apk",
   "releaseNotes": [
-    "- First release",
-    "- Bug fixes"
+    "- 不具合修正"
   ]
 }
