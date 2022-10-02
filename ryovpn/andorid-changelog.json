@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.3",
-  "latestVersionCode": 7,
-  "url": "https://ryonosuke.jp/downloads/android/ryovpn-release.apk",
+  "latestVersion": "1.2.0",
+  "latestVersionCode": 8,
+  "url": "https://ryonosuke.xyz/downloads/android/ryovpn-release.apk",
   "releaseNotes": [
-    "- 不具合修正"
+    "- New UI"
   ]
 }
