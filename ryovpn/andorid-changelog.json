@@ -1,8 +1,9 @@
 {
-  "latestVersion": "1.2.3",
-  "latestVersionCode": 11,
+  "latestVersion": "1.2.4",
+  "latestVersionCode": 12,
   "url": "https://ryonosuke.xyz/downloads/android/ryovpn-release.apk",
   "releaseNotes": [
-    "特定地域での接続ルーティングを変更しました"
+    "アプリの表示名を変更しました",
+    "軽微な不具合を修正しました"
   ]
 }
